@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "personalSite"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-personalSite-29c7a45a-cb25-4412-a4e9-6f511aedde1c;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
